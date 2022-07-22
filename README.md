@@ -1,6 +1,6 @@
 # DiscordWebhook
 Send messages through discord webhooks
-optional avatar/webhook username
+optional webhook/avatar username
 ---
 
 <h2 id="how-to-use">🤔 How To Use</h2>
