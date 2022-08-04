@@ -1,6 +1,7 @@
 # DiscordWebhook
 Send messages through discord webhooks
 optional webhook/avatar username
+Delete Webhooks 
 ---
 
 <h2 id="how-to-use">🤔 How To Use</h2>
@@ -17,5 +18,5 @@ cd (path to the file)
 pip install requests
 ```
 ```sh
-python SimpleDiscordWebhookSender/Spammer.py
+python SimpleDiscordWebhookSender/Deleter/Spammer.py
 ```
